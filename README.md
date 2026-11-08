@@ -1,4 +1,5 @@
-# React Prop Drilling Practice UI
+# React Prop Drilling Practice UI -customer-segmentation-ui
+
 
 This project is a small React learning app built to practice prop drilling in a real UI structure.
 
